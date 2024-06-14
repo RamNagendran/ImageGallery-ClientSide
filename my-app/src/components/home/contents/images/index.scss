@@ -1,0 +1,15 @@
+.images {
+    height: 100%;
+    padding: 30px;
+    overflow: hidden;
+    .upload-btn {
+        height: 45px;
+        width: 30%;
+        background-color: #fff;
+        border: 1.5px solid lightgray;
+        border-radius: 8px;
+        box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+        font-size: 18px;
+        font-weight: 600;
+    }
+}
